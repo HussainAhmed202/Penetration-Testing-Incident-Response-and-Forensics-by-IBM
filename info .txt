@@ -1,0 +1,15 @@
+languages for cybersecurity
+
+python
+java
+js
+perl
+ruby
+lisp
+c/c++
+swift
+php
+bash -> PenTesting
+powershell
+
+learn sql
